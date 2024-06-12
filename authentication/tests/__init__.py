@@ -1,0 +1,2 @@
+from .create_user_view_test import CreateUserViewTest
+from .user_serializer_test import UserSerializerTest
